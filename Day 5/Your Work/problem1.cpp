@@ -22,7 +22,7 @@ int main() {
     for(int i = 0 ;i<n;i++){
         cin>>v[i];
     }
-    //sort(v.begin(),v.end());
+    //sort(all(v));
     int i = 0 ,j=n-1;
     bool isfound = false ;
 
