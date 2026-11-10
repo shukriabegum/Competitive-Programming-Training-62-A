@@ -35,7 +35,7 @@ int main() {
     }
    
 
-   // slide the window from index k to n-1 
+  
 
    if(min_len == 2e18){
     cout<<"No subarray found with sum >= "<<k<<endl;
